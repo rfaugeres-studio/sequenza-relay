@@ -1,0 +1,3 @@
+0f527580e91b4c3f6a935114829ee1fb2d6edc2ce9984a8e54ca2a8ab9788d7f  Sequenza-Relay-windows.zip
+24a362e52dfaec4c2a459300e3bef83344dd1021540edea85db0afdcaf0d3e31  Sequenza-Relay-mac-apple-silicon.tar.gz
+e76ebea727dc1336dea5c0ac0f89406b2867df204755aae3ef65f2bf20ee5223  Sequenza-Relay-mac-intel.tar.gz
